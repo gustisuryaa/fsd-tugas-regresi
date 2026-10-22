@@ -8,7 +8,7 @@ Pengganti kehadiran Pertemuan 10 dan 11 · Fundamen Sains Data · Informatika UI
 |---|---|---|
 | Gusti Surya Aditama | 25523053 | Mengerjakan bagian A Linear Regression |
 | Muhammad Lutfi Syarif | 25523021 |Mengerjakan B Logistic Regression |
-| Naufal Alaam Najib | 25523063 | Mereview hasil dan membantu analisis |
+| Naufal Allaam Najib | 25523063 | Mereview hasil dan membantu analisis |
 
 ## Struktur Repositori
 
